@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "SehirAsistani.Api.Controllers.KullaniciController",
+    "Method": "GetAll",
+    "RelativePath": "Kullanici/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[SehirAsistanim.Domain.Entities.Kullanici, SehirAsistanim.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
