@@ -1,12 +1,203 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\umutg\\OneDrive\\Desktop\\SehirAsistani\\Backend\\SehirAsistani.Api\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1333E6BB-1A43-419A-9B56-461812ED91EC}|SehirAsistani.Api\\SehirAsistani.Api.csproj|c:\\users\\umutg\\onedrive\\desktop\\sehirasistani\\backend\\sehirasistani.api\\sehirasistani.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1333E6BB-1A43-419A-9B56-461812ED91EC}|SehirAsistani.Api\\SehirAsistani.Api.csproj|solutionrelative:sehirasistani.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73066D61-9EA3-4D16-9762-FFD68F20A77C}|SehirAsistanim.Infrastructure\\SehirAsistanim.Infrastructure.csproj|c:\\users\\umutg\\onedrive\\desktop\\sehirasistani\\backend\\sehirasistani.api\\sehirasistanim.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73066D61-9EA3-4D16-9762-FFD68F20A77C}|SehirAsistanim.Infrastructure\\SehirAsistanim.Infrastructure.csproj|solutionrelative:sehirasistanim.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73066D61-9EA3-4D16-9762-FFD68F20A77C}|SehirAsistanim.Infrastructure\\SehirAsistanim.Infrastructure.csproj|c:\\users\\umutg\\onedrive\\desktop\\sehirasistani\\backend\\sehirasistani.api\\sehirasistanim.infrastructure\\services\\kullaniciservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73066D61-9EA3-4D16-9762-FFD68F20A77C}|SehirAsistanim.Infrastructure\\SehirAsistanim.Infrastructure.csproj|solutionrelative:sehirasistanim.infrastructure\\services\\kullaniciservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1333E6BB-1A43-419A-9B56-461812ED91EC}|SehirAsistani.Api\\SehirAsistani.Api.csproj|c:\\users\\umutg\\onedrive\\desktop\\sehirasistani\\backend\\sehirasistani.api\\sehirasistani.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1333E6BB-1A43-419A-9B56-461812ED91EC}|SehirAsistani.Api\\SehirAsistani.Api.csproj|solutionrelative:sehirasistani.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73066D61-9EA3-4D16-9762-FFD68F20A77C}|SehirAsistanim.Infrastructure\\SehirAsistanim.Infrastructure.csproj|c:\\users\\umutg\\onedrive\\desktop\\sehirasistani\\backend\\sehirasistani.api\\sehirasistanim.infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73066D61-9EA3-4D16-9762-FFD68F20A77C}|SehirAsistanim.Infrastructure\\SehirAsistanim.Infrastructure.csproj|solutionrelative:sehirasistanim.infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1333E6BB-1A43-419A-9B56-461812ED91EC}|SehirAsistani.Api\\SehirAsistani.Api.csproj|c:\\users\\umutg\\onedrive\\desktop\\sehirasistani\\backend\\sehirasistani.api\\sehirasistani.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1333E6BB-1A43-419A-9B56-461812ED91EC}|SehirAsistani.Api\\SehirAsistani.Api.csproj|solutionrelative:sehirasistani.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73066D61-9EA3-4D16-9762-FFD68F20A77C}|SehirAsistanim.Infrastructure\\SehirAsistanim.Infrastructure.csproj|c:\\users\\umutg\\onedrive\\desktop\\sehirasistani\\backend\\sehirasistani.api\\sehirasistanim.infrastructure\\services\\smtpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73066D61-9EA3-4D16-9762-FFD68F20A77C}|SehirAsistanim.Infrastructure\\SehirAsistanim.Infrastructure.csproj|solutionrelative:sehirasistanim.infrastructure\\services\\smtpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{037665EA-3AC6-4374-91F4-BF8E0B1F522A}|SehirAsistanim.Domain\\SehirAsistanim.Domain.csproj|c:\\users\\umutg\\onedrive\\desktop\\sehirasistani\\backend\\sehirasistani.api\\sehirasistanim.domain\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{037665EA-3AC6-4374-91F4-BF8E0B1F522A}|SehirAsistanim.Domain\\SehirAsistanim.Domain.csproj|solutionrelative:sehirasistanim.domain\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{037665EA-3AC6-4374-91F4-BF8E0B1F522A}|SehirAsistanim.Domain\\SehirAsistanim.Domain.csproj|c:\\users\\umutg\\onedrive\\desktop\\sehirasistani\\backend\\sehirasistani.api\\sehirasistanim.domain\\dto\u0027s\\authresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{037665EA-3AC6-4374-91F4-BF8E0B1F522A}|SehirAsistanim.Domain\\SehirAsistanim.Domain.csproj|solutionrelative:sehirasistanim.domain\\dto\u0027s\\authresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{037665EA-3AC6-4374-91F4-BF8E0B1F522A}|SehirAsistanim.Domain\\SehirAsistanim.Domain.csproj|c:\\users\\umutg\\onedrive\\desktop\\sehirasistani\\backend\\sehirasistani.api\\sehirasistanim.domain\\entities\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{037665EA-3AC6-4374-91F4-BF8E0B1F522A}|SehirAsistanim.Domain\\SehirAsistanim.Domain.csproj|solutionrelative:sehirasistanim.domain\\entities\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{037665EA-3AC6-4374-91F4-BF8E0B1F522A}|SehirAsistanim.Domain\\SehirAsistanim.Domain.csproj|c:\\users\\umutg\\onedrive\\desktop\\sehirasistani\\backend\\sehirasistani.api\\sehirasistanim.domain\\enums\\rolturu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{037665EA-3AC6-4374-91F4-BF8E0B1F522A}|SehirAsistanim.Domain\\SehirAsistanim.Domain.csproj|solutionrelative:sehirasistanim.domain\\enums\\rolturu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\umutg\\OneDrive\\Desktop\\SehirAsistani\\Backend\\SehirAsistani.Api\\SehirAsistani.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "SehirAsistani.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\umutg\\OneDrive\\Desktop\\SehirAsistani\\Backend\\SehirAsistani.Api\\SehirAsistani.Api\\appsettings.json",
+              "RelativeToolTip": "SehirAsistani.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-18T07:37:53.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KullaniciService.cs",
+              "DocumentMoniker": "C:\\Users\\umutg\\OneDrive\\Desktop\\SehirAsistani\\Backend\\SehirAsistani.Api\\SehirAsistanim.Infrastructure\\Services\\KullaniciService.cs",
+              "RelativeDocumentMoniker": "SehirAsistanim.Infrastructure\\Services\\KullaniciService.cs",
+              "ToolTip": "C:\\Users\\umutg\\OneDrive\\Desktop\\SehirAsistani\\Backend\\SehirAsistani.Api\\SehirAsistanim.Infrastructure\\Services\\KullaniciService.cs",
+              "RelativeToolTip": "SehirAsistanim.Infrastructure\\Services\\KullaniciService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T07:33:59.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\umutg\\OneDrive\\Desktop\\SehirAsistani\\Backend\\SehirAsistani.Api\\SehirAsistani.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SehirAsistani.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\umutg\\OneDrive\\Desktop\\SehirAsistani\\Backend\\SehirAsistani.Api\\SehirAsistani.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SehirAsistani.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:03:36.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umutg\\OneDrive\\Desktop\\SehirAsistani\\Backend\\SehirAsistani.Api\\SehirAsistani.Api\\Program.cs",
+              "RelativeDocumentMoniker": "SehirAsistani.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\umutg\\OneDrive\\Desktop\\SehirAsistani\\Backend\\SehirAsistani.Api\\SehirAsistani.Api\\Program.cs",
+              "RelativeToolTip": "SehirAsistani.Api\\Program.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAFcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T12:38:26.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RolTuru.cs",
+              "DocumentMoniker": "C:\\Users\\umutg\\OneDrive\\Desktop\\SehirAsistani\\Backend\\SehirAsistani.Api\\SehirAsistanim.Domain\\Enums\\RolTuru.cs",
+              "RelativeDocumentMoniker": "SehirAsistanim.Domain\\Enums\\RolTuru.cs",
+              "ToolTip": "C:\\Users\\umutg\\OneDrive\\Desktop\\SehirAsistani\\Backend\\SehirAsistani.Api\\SehirAsistanim.Domain\\Enums\\RolTuru.cs",
+              "RelativeToolTip": "SehirAsistanim.Domain\\Enums\\RolTuru.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:28:51.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "C:\\Users\\umutg\\OneDrive\\Desktop\\SehirAsistani\\Backend\\SehirAsistani.Api\\SehirAsistanim.Domain\\Entities\\Kullanici.cs",
+              "RelativeDocumentMoniker": "SehirAsistanim.Domain\\Entities\\Kullanici.cs",
+              "ToolTip": "C:\\Users\\umutg\\OneDrive\\Desktop\\SehirAsistani\\Backend\\SehirAsistani.Api\\SehirAsistanim.Domain\\Entities\\Kullanici.cs",
+              "RelativeToolTip": "SehirAsistanim.Domain\\Entities\\Kullanici.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:17:31.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\umutg\\OneDrive\\Desktop\\SehirAsistani\\Backend\\SehirAsistani.Api\\SehirAsistanim.Domain\\Dto\u0027s\\AuthResultDto.cs",
+              "RelativeDocumentMoniker": "SehirAsistanim.Domain\\Dto\u0027s\\AuthResultDto.cs",
+              "ToolTip": "C:\\Users\\umutg\\OneDrive\\Desktop\\SehirAsistani\\Backend\\SehirAsistani.Api\\SehirAsistanim.Domain\\Dto\u0027s\\AuthResultDto.cs",
+              "RelativeToolTip": "SehirAsistanim.Domain\\Dto\u0027s\\AuthResultDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:14:20.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\umutg\\OneDrive\\Desktop\\SehirAsistani\\Backend\\SehirAsistani.Api\\SehirAsistanim.Domain\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "SehirAsistanim.Domain\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\umutg\\OneDrive\\Desktop\\SehirAsistani\\Backend\\SehirAsistani.Api\\SehirAsistanim.Domain\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "SehirAsistanim.Domain\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:13:07.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\umutg\\OneDrive\\Desktop\\SehirAsistani\\Backend\\SehirAsistani.Api\\SehirAsistanim.Infrastructure\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "SehirAsistanim.Infrastructure\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\umutg\\OneDrive\\Desktop\\SehirAsistani\\Backend\\SehirAsistani.Api\\SehirAsistanim.Infrastructure\\Services\\AuthService.cs",
+              "RelativeToolTip": "SehirAsistanim.Infrastructure\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:12:42.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\umutg\\OneDrive\\Desktop\\SehirAsistani\\Backend\\SehirAsistani.Api\\SehirAsistanim.Infrastructure\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "SehirAsistanim.Infrastructure\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\umutg\\OneDrive\\Desktop\\SehirAsistani\\Backend\\SehirAsistani.Api\\SehirAsistanim.Infrastructure\\Services\\EmailService.cs",
+              "RelativeToolTip": "SehirAsistanim.Infrastructure\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:37:42.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SmtpService.cs",
+              "DocumentMoniker": "C:\\Users\\umutg\\OneDrive\\Desktop\\SehirAsistani\\Backend\\SehirAsistani.Api\\SehirAsistanim.Infrastructure\\Services\\SmtpService.cs",
+              "RelativeDocumentMoniker": "SehirAsistanim.Infrastructure\\Services\\SmtpService.cs",
+              "ToolTip": "C:\\Users\\umutg\\OneDrive\\Desktop\\SehirAsistani\\Backend\\SehirAsistani.Api\\SehirAsistanim.Infrastructure\\Services\\SmtpService.cs",
+              "RelativeToolTip": "SehirAsistanim.Infrastructure\\Services\\SmtpService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T07:11:13.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
